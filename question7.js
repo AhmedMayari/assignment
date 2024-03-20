@@ -1,0 +1,5 @@
+"use strict";
+console.log(5 + 3);
+console.log(15 - 7);
+console.log(4 * 2);
+console.log(48 / 6);
